@@ -1,6 +1,6 @@
 Файл **hosts** в W7 расположен:
 
-cd C:\Windows\System32\drivers\etc\hosts
+cd C:\Windows\System32\drivers\etc
 
 
     # 192.168.1.88     mysite.do
