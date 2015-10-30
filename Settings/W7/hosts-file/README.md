@@ -1,11 +1,11 @@
 Файл **hosts** в W7 расположен:
 
-C:\Windows\System32\drivers\etc\hosts
+cd C:\Windows\System32\drivers\etc\hosts
 
 
     \# 192.168.1.88     mysite.do
     
-    109.87.246.195   abc
+    109.87.246. ...   abc
     192.168.1.11  domen
     192.168.1.11  www.domen
     127.0.0.1    kds.pp.ua.local
