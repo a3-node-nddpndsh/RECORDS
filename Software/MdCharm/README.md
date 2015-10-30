@@ -1,4 +1,4 @@
-**MdCharm**
+**MdCharm** - Markdown editor.
 
 Сайт: http://www.mdcharm.com/ 
 
