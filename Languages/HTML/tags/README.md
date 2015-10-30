@@ -1,1 +1,4 @@
-### recs\HTML\tags *folder*
+**tags** *folder*
+
+Справочник:
+https://webref.ru/html
