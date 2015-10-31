@@ -1,5 +1,5 @@
 
-<a name="top"> <b> Content </b> </a><b>Content</b>  
+<a name="top"> <b> Content </b> </a>
 
 
     ##### пятый заголовок
