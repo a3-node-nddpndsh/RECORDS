@@ -1,5 +1,5 @@
 
-<b>Content</b>  (#content22)
+<a name="top"> <b> Content </b> </a><b>Content</b>  
 
 
     ##### пятый заголовок
@@ -12,6 +12,6 @@
 *italic* _italic_
 
 
-[Link back to content 1] (#content22)
+[Link back to content 1] (#top)
     
 
