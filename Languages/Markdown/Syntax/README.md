@@ -4,8 +4,8 @@
     **bold**
 **bold**
 
-    *italic*
-*italic*
+    *italic* _italic_
+*italic* _italic_
 
 
 
