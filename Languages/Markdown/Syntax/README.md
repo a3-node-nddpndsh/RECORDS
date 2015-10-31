@@ -1,9 +1,5 @@
 
-
-Content  {#content}
-
-(#content)
-
+<b>Content</b>  (content22)
 
 
     ##### пятый заголовок
@@ -16,21 +12,6 @@ Content  {#content}
 *italic* _italic_
 
 
-
-
-
-
-
-
-[Link back to content 1] (#content)
+[Link back to content 1] (#content22)
     
-
-
-
-Это [ссылка][1] в справочном стиле.
-...
-...
-[2]: http://rukeba.com/ "Необязательный титул"
-
-
 
