@@ -9,7 +9,8 @@ cd C:\Windows\System32\drivers\etc
     
     192.168.1.11  domen
     
-    127.0.0.1    kds.pp.ua.local
-    127.0.0.1    www.kds.pp.ua.local
-
     192.168.1.11     kds.pp.ua.local
+    
+    192.168.1.11     sum.pp.ua.local
+    
+    
