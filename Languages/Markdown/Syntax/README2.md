@@ -17,6 +17,9 @@ Math
 Multi-Markdown
 Blockquotes
 ShortCuts: Ctrl+Q
+
+
+
 Markdown uses email-style > characters for blockquoting.
 > This is a blockquote
 
@@ -69,6 +72,9 @@ Header 1 {#header1}
 Link back to header
 
 [Link back to header 1](#header1)
+
+
+
 Horizontal rules
 * * *
 
